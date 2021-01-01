@@ -17,7 +17,10 @@ Error handling isn't done in some cases (eg : incorrect file name,etc)
 
 # Steps to run the application
 ● Start the server by running “server.py” (At remote server system)
+
 ● The User can open the application by running “client.py” in the terminal. 
+
 ● Follow the instructions in the application.
+
   ○ Note:Keep html and css filenames handy (in the same folder),for upload.
 
