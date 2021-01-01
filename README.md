@@ -7,11 +7,11 @@ Multi-threaded HTTP server: User can create an html page on the http server and 
 # Introduction
 This is the CLI implementation of the project. It is tested on windows 10, Linux( Debian, Ubuntu)
 
-Command Line Interface Implemtation is done using python3.7
+Command Line Interface implementation is done using python3.7
 
 Note:
 
 namefile  : It is used to keep track of domain names registered.
 
-Error handling isnt done in some cases (eg : incorrect file name,etc)
+Error handling isn't done in some cases (eg : incorrect file name,etc)
 
